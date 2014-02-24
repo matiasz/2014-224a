@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{barrett1981}
+Harrison~H Barrett and William Swindell.
+\newblock {\em Radiological imaging: the theory of image formation, detection,
+  and processing}, volume~2.
+\newblock Academic Press, 1981.
+
+\bibitem{bushberg2002}
+Jerrold~T Bushberg and John~M Boone.
+\newblock {\em The essential physics of medical imaging}.
+\newblock Lippincott Williams \& Wilkins, 2002.
+
+\bibitem{curry1990}
+Thomas~S Curry~III, James~E Dowdey, and Robert~C Murry~Jr.
+\newblock {\em Christensen ́s physics of diagnostic radiology 4 Ed}.
+\newblock Lippincott Williams \& Wilkins, 1990.
+
+\bibitem{johns1983}
+Harold~Elford Johns and John~Robert Cunningham.
+\newblock {\em The physics of radiology}.
+\newblock Charles C Thomas, 1983.
+
+\bibitem{rogers1990}
+DWO Rogers and AF~Bielajew.
+\newblock Monte carlo techniques of electron and photon transport for radiation
+  dosimetry.
+\newblock {\em The dosimetry of ionizing radiation}, 3:427--539, 1990.
+
+\end{thebibliography}
