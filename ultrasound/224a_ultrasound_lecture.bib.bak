@@ -1,0 +1,28 @@
+@book{bushberg2011,
+  title={The essential physics of medical imaging},
+  author={Bushberg, Jerrold T and Boone, John M},
+  year={2011},
+  publisher={Lippincott Williams \& Wilkins}
+}
+
+@book{hedrick1995,
+  title={Ultrasound physics and instrumentation},
+  author={Hedrick, Wayne R and Hykes, David L and Starchman, Dale E},
+  year={1995},
+  publisher={Mosby St. Louis}
+}
+
+@book{kremkau2002,
+  title={Diagnostic ultrasound: principles and instruments},
+  author={Kremkau, Frederick W},
+  year={2002},
+  publisher={WB Saunders Philadelphia}
+}
+
+@article{zagzebski1996essentials,
+  title={Essentials of Ultrasound Physics, St},
+  author={Zagzebski, JA},
+  journal={Louis, Missouri: Mosby-Year Book},
+  year={1996}
+}
+
